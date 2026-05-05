@@ -1,10 +1,8 @@
 # 👋 Hola, soy Milton Aldair Salgado Casiano
 
-🎓 Ingeniero en Telemática egresado de UPIITA-IPN
-🚀 Apasionado por el Internet de las Cosas (IoT), la Inteligencia Artificial, telecomunicaciones y la alrctricidad 
-🔧 Enfocado en sistemas embebidos, comunicación inalámbrica y desarrollo de soluciones reales
-
----
+🚀 Ingeniero en Telemática egresado de UPIITA-IPN
+🤖 Desarrollador IoT e Inteligencia Artificial
+📡 Enfocado en Sistemas Embebidos, Visión por Computadora y Comunicación RF
 
 ## 🧰 Tecnologías Principales
 
