@@ -1,8 +1,8 @@
 # 👋 Hola, soy Milton Aldair Salgado Casiano
 
-🚀 Ingeniero en Telemática | Desarrollador IoT & IA
-📡 Sistemas embebidos • Comunicación RF • Front-End
-🤖 Desarrollo de soluciones reales con Arduino y visión artificial
+🎓 Ingeniero en Telemática egresado de UPIITA-IPN
+🚀 Apasionado por el Internet de las Cosas (IoT), la Inteligencia Artificial, telecomunicaciones y la alrctricidad 
+🔧 Enfocado en sistemas embebidos, comunicación inalámbrica y desarrollo de soluciones reales
 
 ---
 
