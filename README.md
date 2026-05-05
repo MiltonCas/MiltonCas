@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge\&logo=raspberry-pi\&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/NVIDIA-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
