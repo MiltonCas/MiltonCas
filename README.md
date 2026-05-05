@@ -11,7 +11,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge\&logo=raspberry-pi\&logoColor=white)
-![RF 433 MHz](https://img.shields.io/badge/RF-433MHz-blue?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
