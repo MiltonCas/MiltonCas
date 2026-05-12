@@ -30,4 +30,4 @@ FFT, Modulación AM/FM/PM y espectros
 
 ## 📫 Contacto
 
-* LinkedIn: (tu link aquí)
+* LinkedIn: https://www.linkedin.com/in/salgado-casiano-milton-aldair-ba018a272/
